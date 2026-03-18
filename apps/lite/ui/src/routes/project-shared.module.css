@@ -19,6 +19,13 @@
 	padding: var(--pane-padding);
 }
 
+.previewDialogPopup {
+	position: fixed;
+	inset: 0;
+	padding: var(--pane-padding);
+	background-color: white;
+}
+
 .previewResizeHandle {
 	width: 1px;
 	background-color: black;
